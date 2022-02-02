@@ -1,0 +1,9 @@
+Time for Buenos Aires -> New York -> Liverpool is 10
+Time for Buenos Aires -> Casablanca -> Liverpool is 8
+Time for Buenos Aires -> Cape Town -> New York -> Liverpool -> Casablanca is 19
+Sorry, but Buenos Aires -> Cape Town -> Casablanca doesn't exist
+The shortest path between Buenos Aires and Liverpool has the length of 8
+The shortest path between New York and New York has the length of 0
+Num of routes from Liverpool to Liverpool with maximum number of 3 stops is 3
+Num of routes from Liverpool to Liverpool with exactly 4 stops is 1
+Num of routes from Liverpool to Liverpool with less or equal than 25 days is 4
